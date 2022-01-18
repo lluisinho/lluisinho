@@ -48,8 +48,8 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lluisinho&theme=onedarkl&show_icons=true&count_private=true" />
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lluisinho&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=lluisinho&theme=dracula&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lluisinho&theme=dracula&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
 </div>
   <br></br>
