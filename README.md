@@ -58,4 +58,3 @@
 </tr>
 </table>
 
-![Snake animation](https://github.com/lluisinho/lluisinho/blob/output/github-contribution-grid-snake.svg)
