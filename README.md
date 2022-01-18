@@ -22,25 +22,23 @@
   
 <h2>📞Contatos</h2>
 <br>
-<p align="left">
-  <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCHrhVDPQvnqfnDnJzqhkdpSXpgJfSzjsBvvZHZzTcpGsBkfQNvvVwrkZpZbPKvMQstldZGV"  alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lfms20031027@gmail.com" /></a>
+<ol>
+   <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCHrhVDPQvnqfnDnJzqhkdpSXpgJfSzjsBvvZHZzTcpGsBkfQNvvVwrkZpZbPKvMQstldZGV"  alt="Gmail">
+   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lfms20031027@gmail.com" /></a>
  
-  <a href="https://api.whatsapp.com/send?phone=55169942184833&text=Luis%20Fernando%20(Desenvolvedor%20Back-End)"  alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+   <a href="https://api.whatsapp.com/send?phone=55169942184833&text=Luis%20Fernando%20(Desenvolvedor%20Back-End)"  alt="WhatsApp">
+   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   
-  <a href="https://www.facebook.com/luisfernando.mendes.3979"  alt="Facebook" >
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+   <a href="https://www.facebook.com/luisfernando.mendes.3979"  alt="Facebook" >
+   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
-  <a href="https://www.instagram.com/luisinho_fernandinh/"  alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-            square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luisinho_fernandinh/"/></a>
-</p>  
-  
+   <a href="https://www.instagram.com/luisinho_fernandinh/"  alt="Instagram">
+   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-            square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luisinho_fernandinh/"/></a>
+
+  </ol>
  <p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">                  
   <br>
-
 <p  align="center"> 
 
 </ol>
