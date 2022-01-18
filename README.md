@@ -1,9 +1,11 @@
 <h1><b>Luis Fernando</b></h1> 
-<br>
-
+<div>
+   <img   width="200" height="151" align="right"  src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="Gifteclando"/>
+ </div>
 <ol>
  💻Desenvolvedor Back-end <br>
  🎂 18 Anos <br>
+ 
  📒 Estudo na Fatec Franca - Analise e Desenvolvimento de sistema<br>
  🌆 Franca-SP
  <a href="https://esquadros.com.br/"> <br>📌 Atualmente  Desenvolvedor Back-end na Esquadros  </a>
@@ -16,11 +18,7 @@
  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/>
   </ol>
-  <div>
  
-  <img width="200" height="150" align="right"  src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="Gifteclando"/>
-  </div>
-  
   
 <h2>📞Contatos</h2>
 <br>
