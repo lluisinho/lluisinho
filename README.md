@@ -57,4 +57,6 @@
   <br></br>
 </tr>
 </table>
-
+<div>
+![Snake animation](https://github.com/lluisinho/lluisinho/blob/output/github-contribution-grid-snake.svg)
+</div>
